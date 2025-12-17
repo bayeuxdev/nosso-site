@@ -1,0 +1,14 @@
+body{
+	background-color: #171717;
+	opacity: 1;
+	background-image: 
+	radial-gradient(#222 1.05px, #000 1.05px);
+	background-size: 31px 31px;
+    overflow: hidden;
+    background-attachment: fixed;
+}
+
+header{
+    background: linear-gradient(85deg ,rgba(0,0,0,0) 10%,rgba(0,0,0,1) );
+
+}
